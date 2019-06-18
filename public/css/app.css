@@ -2,3 +2,52 @@ body {
     background-color: black;
     color: pink;
 }
+
+p {
+    background: rgb(164, 84, 255);
+    border: 2px solid rgba(255,84,104,0.3);
+    padding: 10px;
+    margin: 10px;
+  }
+  
+header h1 {
+    color: plum
+}
+
+header #busqueda-paper {
+    padding-left: 350px;
+    padding-right: 10px;
+}
+header #busqueda-investigador {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+body h2 {
+    color: plum
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    padding-left: 350px;
+}
+
+li {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+a:hover {
+    font-size: 20px;
+    color: pink;
+}
+
+a:visited {
+    color: pink;
+}
+
+header {
+    display: flex;
+    padding: 5px 5px;
+    width: 100%;
+}

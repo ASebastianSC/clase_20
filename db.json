@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "email": "joel@centraal.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "username": "test",
+      "user": "test",
+      "password": "test",
+      "id": 4
+    },
+    {
+      "name": "asd",
+      "username": "sebastian_purple@hotmail.com",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "name": "gfdg",
+      "username": "potato",
+      "password": "12678",
+      "id": 6
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "email": "joel@centraal.com",
+      "password": "123456",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
